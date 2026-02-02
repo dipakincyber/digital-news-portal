@@ -163,6 +163,8 @@ The project uses **Poppins** as the primary font (from Google Fonts).
 - `/about` - About page
 - `/contact` - Contact page
 
+![eNews Portal](images/home.png)
+![eNews Portal](images/contact.png)
 ---
 
 **Built with ❤️ for JC Nepal Media**
